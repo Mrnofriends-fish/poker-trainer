@@ -18,4 +18,4 @@ https://mrnofriends-fish.github.io/poker-trainer/
 
 Styles, scripts, icons, `manifest.webmanifest` (`start_url` and `scope`), and the service worker (`sw.js`) all use relative URLs, so the app loads correctly from the `/poker-trainer/` subpath.
 
-Enable Pages once if it is not already on: **Settings → Pages → Build and deployment → Source: GitHub Actions**.
+Pages is published with **Settings → Pages → Build and deployment → Source: GitHub Actions**.
